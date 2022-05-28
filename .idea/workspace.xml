@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfd0a337-22fa-4127-9a82-1b586ca7746f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Alice-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bobby-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chris-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/init.sh" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="28ssfy1t27PYITrFMt972eiVZLI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/chao/mppatterns/AppendixB" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/chao/mppatterns/AppendixB" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/chao/mppatterns/Introduction1" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/chao/mppatterns/ActiveObject" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/chao/mppatterns/ThreadSpecificStorage" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/chao/mppatterns/TwoPhaseTermination" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.chao.mppatterns.Immutable.A26a" />
+      <recent name="com.chao.mppatterns.AppendixB.Final2" />
+      <recent name="com.chao.mppatterns.AppendixB.Final1" />
+      <recent name="com.chao.mppatterns.SingleThreadedExecution.JucSemaphore" />
+    </key>
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="com.chao.mppatterns.ThreadPerMessage.A74b" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chao.mppatterns.ThreadSpecificStorage.Sample2.Main" />
+      <module name="mp_patterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chao.mppatterns.ActiveObject.A122a.Main" />
+      <module name="mp_patterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chao.mppatterns.ActiveObject.A123a.Main" />
+      <module name="mp_patterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chao.mppatterns.ThreadSpecificStorage.Sample1.Main" />
+      <module name="mp_patterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chao.mppatterns.ActiveObject.jucSample.Main" />
+      <module name="mp_patterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (5)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfd0a337-22fa-4127-9a82-1b586ca7746f" name="Default Changelist" comment="" />
+      <created>1652016734473</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652016734473</updated>
+      <workItem from="1652016735616" duration="5270000" />
+      <workItem from="1652192850272" duration="750000" />
+      <workItem from="1652193609456" duration="1579000" />
+      <workItem from="1652513359420" duration="7067000" />
+      <workItem from="1652574544048" duration="6275000" />
+      <workItem from="1652585227478" duration="567000" />
+      <workItem from="1652586467740" duration="16476000" />
+      <workItem from="1652793023782" duration="4864000" />
+      <workItem from="1653276419862" duration="6890000" />
+      <workItem from="1653362829241" duration="12290000" />
+      <workItem from="1653551067788" duration="535000" />
+      <workItem from="1653617514241" duration="3799000" />
+      <workItem from="1653698051997" duration="13954000" />
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/chao/mppatterns/Introduction1/TwoThreads/Main.java</url>
+          <line>4</line>
+          <properties class="com.chao.mppatterns.Introduction1.TwoThreads.Main" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/chao/mppatterns/TwoPhaseTermination/A102/CountupThread.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/chao/mppatterns/TwoPhaseTermination/A102/CountupThread.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/chao/mppatterns/TwoPhaseTermination/A102/CountupThread.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/chao/mppatterns/TwoPhaseTermination/A102/Main.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/chao/mppatterns/TwoPhaseTermination/A102/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/chao/mppatterns/TwoPhaseTermination/A102/CountupThread.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/chao/mppatterns/TwoPhaseTermination/A102/CountupThread.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
